@@ -1,0 +1,14 @@
+{
+
+  "presets": ["react-native-stage-0/decorator-support"],
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": "css"
+      }
+    ]
+  ]
+
+}
